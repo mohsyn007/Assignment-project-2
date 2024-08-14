@@ -186,8 +186,8 @@ header {
 }
 
 .banner-title {
-    font-size: 6rem;
-    font-weight: 900;
+    font-size: 7rem;
+    font-weight: 800;
     margin: 0px;
     margin-top: 0;
     margin-bottom: 1.5rem;
@@ -203,7 +203,7 @@ header {
 
 .banner-description {
     color: rgba(255, 255, 255, 0.5);
-    font-size: 1rem;
+    font-size: 1.3rem;
     margin-bottom: 1.8rem;
     padding-right: 200px;
 }
@@ -216,7 +216,7 @@ header {
     color: white;
     font-size: 18px;
     font-weight: 600;
-    border-radius: 42px;
+    border-radius: 46px;
     background: rgb(230, 83, 60);
     padding: 1rem 3rem;
     border: none;
@@ -250,7 +250,7 @@ header {
 .workout h3 {
     color: rgb(255, 255, 255);
     font-size: 2.5rem;
-    font-weight: 900;
+    font-weight: 800;
     margin: 0px;
 }
 
@@ -275,16 +275,16 @@ header {
     padding: 10px 20px;
     align-items: center;
     justify-content: center;
-    gap: 10px;
+    gap: 12px;
     position: absolute;
     bottom: 12%;
     left: -35%;
 }
 
 .circle {
-    width: 40px;
-    height: 40px;
-    border: 1px solid tomato;
+    width: 45px;
+    height: 45px;
+    border: 1px solid red;
     background-color: rgb(230, 83, 60);
     border-radius: 50%;
 }
@@ -318,7 +318,7 @@ header {
 .habit-title {
     color: white;
     font-size: 3rem;
-    font-weight: 900;
+    font-weight: 800;
     margin: 0px;
 }
 
