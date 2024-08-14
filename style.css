@@ -31,17 +31,52 @@ header {
     border: none;
 }
 
-.navbar-container,
-.banner-container,
-.habit-container,
-.run-container,
-.bmi-calculator-heading-container,
-.bmi-calculator-container,
-.team-container,
+.navbar-container {
+    max-width: 1440px;
+    margin: 0 auto;
+
+}
+
+.banner-container {
+    max-width: 1440px;
+    margin: 0 auto;
+
+}
+
+.habit-container {
+    max-width: 1440px;
+    margin: 0 auto;
+
+}
+
+.run-container {
+    max-width: 1440px;
+    margin: 0 auto;
+
+}
+
+.bmi-calculator-heading-container {
+    max-width: 1440px;
+    margin: 0 auto;
+
+}
+
+.bmi-calculator-container {
+    max-width: 1440px;
+    margin: 0 auto;
+
+}
+
+.team-container {
+    max-width: 1440px;
+    margin: 0 auto;
+
+}
+
 .footer-container {
     max-width: 1440px;
     margin: 0 auto;
-    
+
 }
 
 
@@ -896,7 +931,7 @@ footer {
         padding-bottom: 0px;
     }
 
-    .team-title{
+    .team-title {
         font-size: 2rem;
     }
 
