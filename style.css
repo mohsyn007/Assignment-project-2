@@ -15,8 +15,8 @@ body {
 }
 
 header {
-    background: linear-gradient(180.00deg, rgb(17, 17, 17), rgba(119, 119, 119, 0) 100%);
-    background: linear-gradient(180deg, rgba(62, 74, 74, 1) 0%, rgb(42 42 42 / 99%) 0%, rgba(0, 0, 0, 1) 100%);
+    background: linear-gradient(180.00deg, rgb(18, 18, 18), rgba(118, 118, 118, 0) 99%);
+    background: linear-gradient(180deg, rgba(62, 74, 74, 1) 0%, rgb(42 42 42 / 99%) 0%, rgba(0, 0, 0, 1) 99%);
 }
 
 .button {
