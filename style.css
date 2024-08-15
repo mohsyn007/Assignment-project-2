@@ -361,6 +361,7 @@ header {
 .run-section {
     background-color: black;
     padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 
 .run-details {
@@ -468,7 +469,7 @@ table {
 }
 
 th {
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.25);
     padding: 1rem 2rem;
     color: rgb(255, 255, 255);
     font-size: 16px;
@@ -644,6 +645,8 @@ p {
     background-color: black;
     color: white;
     border-radius: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 
 .popular-section img {
@@ -680,6 +683,7 @@ text-content h3 {
 
 .text-content button {
     align-items: center;
+    /* padding-left: 3rem; */
 }
 
 .btn-primary {
